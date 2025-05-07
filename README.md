@@ -12,5 +12,6 @@ python vectordb.py --docs_path <path_to_your_doc>
 python rag_chatbot.py
 ```
 Utilzed command line interface to interact with the chatbot.
-Note: The supported document is expected in pdf format.
+### Note
+The supported document is expected in pdf format.
 The pdf document use in this repo is generated 
