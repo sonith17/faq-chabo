@@ -1,4 +1,4 @@
-## Instrutions
+## Instructions
 1. Install the required libraries:
 ```bash
 pip install -r requirements.txt
